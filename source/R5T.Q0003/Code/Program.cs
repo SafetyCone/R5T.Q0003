@@ -12,7 +12,8 @@ namespace R5T.Q0003.Code
             //await Instances.Explorations.SecondCommand();
             //await Instances.Explorations.Command03();
             //await Instances.Explorations.Command04();
-            await Instances.Explorations.Command05();
+            //await Instances.Explorations.Command05();
+            await Raw.Explorations.Instance.N_001();
         }
     }
 }
